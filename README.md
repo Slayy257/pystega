@@ -1,6 +1,6 @@
-# Pyste: Optimized Steganography Library
+# Pystega: Optimized Steganography Library
 
-Pyste is a user-friendly Python library to hide some text into images (png, jpeg, jpg, ect.).
+Pystega is a user-friendly Python library to hide some text into images (png, jpeg, jpg, ect.).
 
 ## Features
 
@@ -9,7 +9,7 @@ Pyste is a user-friendly Python library to hide some text into images (png, jpeg
 
 ## Installation
 
-You can install Pyste using pip:
+You can install Pystega using pip:
 
 ```bash
-pip install pyste
+pip install pystega
