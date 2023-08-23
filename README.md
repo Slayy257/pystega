@@ -4,8 +4,8 @@ Pyste is a user-friendly Python library to hide some text into images (png, jpeg
 
 ## Features
 
-- Write data into files
-- Read data from files
+- Write data into an image
+- Read data from an image
 
 ## Installation
 
