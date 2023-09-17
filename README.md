@@ -13,3 +13,6 @@ You can install Pystega using pip:
 
 ```bash
 pip install pystega
+-------------------------
+py -m pip install pystega
+```
